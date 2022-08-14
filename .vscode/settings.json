@@ -4,7 +4,7 @@
     "search.exclude": {
       "**/.fvm": true
     },
-    // Remove from file watching
+    // // Remove from file watching
     "files.watcherExclude": {
       "**/.fvm": true
     }
